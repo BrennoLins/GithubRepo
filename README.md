@@ -1,1 +1,1 @@
-Apenas um repositório do Github.
+Just a Github repository.
