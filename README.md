@@ -1,1 +1,1 @@
-"Apenas um repositório do Github."
+Apenas um repositório do Github.
