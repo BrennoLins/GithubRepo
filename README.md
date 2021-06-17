@@ -1,1 +1,1 @@
-Portfólio com projetos de ciência de dados.
+Repositório de projetos realizados.
